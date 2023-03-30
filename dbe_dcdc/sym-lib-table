@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "dbe")(type "KiCad")(uri "${KIPRJMOD}/dbe.kicad_sym")(options "")(descr ""))
+)
