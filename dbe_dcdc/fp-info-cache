@@ -1,4 +1,4 @@
-20882463111098415
+20884139735621326
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -75790,6 +75790,13 @@ TO-220-3 Horizontal RM 2.54mm
 3
 Package_TO_SOT_THT
 TO-220-3_Horizontal_TabUp
+TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Horizontal RM 2.54mm
+0
+3
+3
+Package_TO_SOT_THT
+TO-220-3_Horizontal_TabUp_JunctionLess
 TO-220-3, Horizontal, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
 TO-220-3 Horizontal RM 2.54mm
 0
